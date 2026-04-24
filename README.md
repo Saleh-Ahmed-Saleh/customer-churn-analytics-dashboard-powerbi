@@ -16,7 +16,13 @@ Support data-driven decision-making
 
 <img width="1650" height="948" alt="Overview Page" src="https://github.com/user-attachments/assets/1e2c036d-0f33-43b1-bafb-68bf7f9e9af6" />
 
+
+
+
 <img width="1655" height="948" alt="All Page" src="https://github.com/user-attachments/assets/94a9169d-4c13-401f-8c28-9fa1e940ed3d" />
+
+
+
 
 <img width="1652" height="947" alt="Details Page" src="https://github.com/user-attachments/assets/85776f6c-e8db-4d27-980d-41b3d8aae5f3" />
 
